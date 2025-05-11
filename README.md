@@ -1,5 +1,4 @@
 # SEC-Walkthrough-EscalateLinux
-# Escalate_Linux Walkthrough
 
 ![Linux](https://img.shields.io/badge/Linux-Escalation-red?logo=linux)
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow)
